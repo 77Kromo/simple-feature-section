@@ -31,6 +31,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
+  @media screen and (width>768px) {
+    background-image: url("./resources/Background_image@2x.png");
+  }
+  @media screen and (width>1200px) {
+    background-image: url("./resources/Background_image@3x.png");
+  }
 }
 
 header {
@@ -78,8 +85,12 @@ h1 {
   margin: 0 auto;
   grid-template-columns: repeat(1, 350px);
   justify-content: center;
-}
 
+  @media screen and (width>=1200px) {
+    grid-template-columns: repeat(3, 350px);
+    gap: 3rem;
+  }
+}
 @media screen and (min-width: 768px) and (width<1200px) {
   .cards {
     grid-template-columns: repeat(2, 350px);
@@ -90,12 +101,6 @@ h1 {
     grid-column: 1 / -1;
     width: 350px;
     justify-self: center;
-  }
-}
-@media screen and (width>=1200px) {
-  .cards {
-    grid-template-columns: repeat(3, 350px);
-    gap: 3rem;
   }
 }
 
