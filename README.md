@@ -51,8 +51,15 @@ A responsive feature section showcasing quality feedback solutions for SaaS prod
 - Semantic HTML structure for better accessibility
 
 ## How To Use
-
-To view this project, simply open the `index.html` file in your browser or visit the live demo link above.
+ 
+1. **Clone the repo**  
+   ```sh  
+   git clone https://github.com/77Kromo/simple-feature-section.git  
+   ```  
+2. **Customize**  
+   - Edit `index.html` (content) and `style.css` (styling)  
+   - Replace images in `/images`  
+3. **Deploy** – Copy the code into your project or use as-is! 
 
 ## Acknowledgements
 
@@ -62,5 +69,6 @@ To view this project, simply open the `index.html` file in your browser or visit
 
 ## Author
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Website: [your-website.com](https://your-website.com)
+- GitHub: [77Kromo](https://github.com/77Kromo)
+- X : [Kromo77](https://x.com/kromo772004)
+- LinkedIn: [Krowey Richmond Borquaye](https://www.linkedin.com/in/krowey-richmond-borquaye77/)
