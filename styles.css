@@ -32,6 +32,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 2rem;
+
   @media screen and (width>768px) {
     background-image: url("./resources/Background_image@2x.png");
   }
@@ -129,13 +130,12 @@ h1 {
   font-weight: 600;
   font-size: 1.25rem;
 }
-.card-text {
-}
 
 .card-img {
   max-width: 100%;
   height: auto;
 }
+
 img {
   width: 100%;
   height: auto;
