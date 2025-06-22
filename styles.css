@@ -44,7 +44,7 @@ header {
   display: block;
   width: min(75%, 400px);
   text-align: center;
-  margin-block: 2rem;
+  margin-block: clamp(2rem, 1.434vw + 1.541rem, 3.5rem);
   font-weight: 600;
 }
 h1 {
