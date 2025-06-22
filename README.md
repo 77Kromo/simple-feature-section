@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.com">
+    <a href="https://simple-feature-sec.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -14,7 +14,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/simple-feature-section-challenge">
+    <a href="https://devchallenges.io/challenge/simple-feature-section-challenge">
       Challenge
     </a>
   </h3>
@@ -22,7 +22,7 @@
 
 ## Overview
 
-![Screenshot](./thumbnail.jpg)
+[![Screenshot](./thumbnail.jpg)](https://simple-feature-sec.netlify.app/)
 
 A responsive feature section showcasing quality feedback solutions for SaaS products. This project demonstrates modern CSS techniques and responsive design principles.
 
