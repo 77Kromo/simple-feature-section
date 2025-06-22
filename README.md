@@ -69,6 +69,6 @@ A responsive feature section showcasing quality feedback solutions for SaaS prod
 
 ## Author
 
-- GitHub: [77Kromo](https://github.com/77Kromo)
+- GitHub: [77Kromo](https://github.com/krowey-richmond)
 - X : [Kromo77](https://x.com/kromo772004)
-- LinkedIn: [Krowey Richmond Borquaye](https://www.linkedin.com/in/krowey-richmond-borquaye77/)
+- LinkedIn: [Krowey Richmond Borquaye](https://www.linkedin.com/in/krowey-richmond)
