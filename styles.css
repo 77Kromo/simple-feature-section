@@ -44,7 +44,7 @@ header {
   display: block;
   width: min(75%, 400px);
   text-align: center;
-  margin-block: clamp(2rem, 1.434vw + 1.541rem, 3.5rem);
+  margin-block: clamp(1.3rem, 1.147vw + 0.933rem, 2.5rem);
   font-weight: 600;
 }
 h1 {
@@ -80,7 +80,7 @@ h1 {
 
 .cards {
   display: grid;
-  gap: 2rem;
+  gap: 1.5rem;
   width: min(90%, 1440px);
   margin: 0 auto;
   grid-template-columns: repeat(1, 340px);
@@ -88,13 +88,13 @@ h1 {
 
   @media screen and (width>=1100px) {
     grid-template-columns: repeat(3, 330px);
-    gap: 3rem;
+    gap: 2.5rem;
   }
 }
 @media screen and (min-width: 768px) and (width<1100px) {
   .cards {
     grid-template-columns: repeat(2, 330px);
-    gap: 3rem;
+    gap: 2rem;
   }
 
   .card:nth-child(3):last-child {
